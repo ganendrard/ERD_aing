@@ -285,12 +285,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b8KWyY1zqddBe_aFiNli" name="ERD">
-    <mxGraphModel dx="2422" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2553" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Y5FPdyjxIdb8quKIVKax-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Entity Reliationship Diagram MCRLogbook&lt;/font&gt;&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="80" width="602.5" x="-300" y="30" as="geometry" />
+          <mxGeometry height="100" width="602.5" x="-300" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Y5FPdyjxIdb8quKIVKax-23" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="USER" vertex="1">
           <mxGeometry height="120" width="160" x="-78.75" y="200" as="geometry" />
