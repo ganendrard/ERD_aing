@@ -1,0 +1,110 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Diagram Alur Penelitian" id="TE06lA0d33KYpKhLhKJN">
+    <mxGraphModel dx="2044" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gShZ3swXbfRotfR9V9gS-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Diagram Alur Penelitian&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="225" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gShZ3swXbfRotfR9V9gS-10" edge="1" parent="1" source="gShZ3swXbfRotfR9V9gS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gShZ3swXbfRotfR9V9gS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gShZ3swXbfRotfR9V9gS-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Mulai&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="365" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gShZ3swXbfRotfR9V9gS-11" edge="1" parent="1" source="gShZ3swXbfRotfR9V9gS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gShZ3swXbfRotfR9V9gS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gShZ3swXbfRotfR9V9gS-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Pengumpulan dan ekstraksi data&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="300" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="gShZ3swXbfRotfR9V9gS-12" edge="1" parent="1" source="gShZ3swXbfRotfR9V9gS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gShZ3swXbfRotfR9V9gS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gShZ3swXbfRotfR9V9gS-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Pra-Pemrosesan data&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="300" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="gShZ3swXbfRotfR9V9gS-13" edge="1" parent="1" source="gShZ3swXbfRotfR9V9gS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gShZ3swXbfRotfR9V9gS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gShZ3swXbfRotfR9V9gS-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Pembentukan Matriks Kriteria&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(C1-C7)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="300" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="gShZ3swXbfRotfR9V9gS-14" edge="1" parent="1" source="gShZ3swXbfRotfR9V9gS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gShZ3swXbfRotfR9V9gS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gShZ3swXbfRotfR9V9gS-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Eksekusi algoritma TOPSIS&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="300" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="gShZ3swXbfRotfR9V9gS-15" edge="1" parent="1" source="gShZ3swXbfRotfR9V9gS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gShZ3swXbfRotfR9V9gS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gShZ3swXbfRotfR9V9gS-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Rancang bangun web dashboard&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="300" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="gShZ3swXbfRotfR9V9gS-16" edge="1" parent="1" source="gShZ3swXbfRotfR9V9gS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gShZ3swXbfRotfR9V9gS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gShZ3swXbfRotfR9V9gS-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Pengujian dan evaluasi sistem&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="300" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="gShZ3swXbfRotfR9V9gS-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Selesai&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="365" y="970" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UJA_9ToMak1UGashYhzg" name="Diagram TOPSIS">
+    <mxGraphModel dx="1202" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ssGiv1lOknX88lkR8zT8-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Tahapan Algoritma TOPSIS&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="400" x="225" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ssGiv1lOknX88lkR8zT8-4" edge="1" parent="1" source="ssGiv1lOknX88lkR8zT8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ssGiv1lOknX88lkR8zT8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssGiv1lOknX88lkR8zT8-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;1. Membangun Matriks Keputusan (X)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="300" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ssGiv1lOknX88lkR8zT8-6" edge="1" parent="1" source="ssGiv1lOknX88lkR8zT8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ssGiv1lOknX88lkR8zT8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssGiv1lOknX88lkR8zT8-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;2. Normalisasi Matriks (R)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="300" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="ssGiv1lOknX88lkR8zT8-8" edge="1" parent="1" source="ssGiv1lOknX88lkR8zT8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ssGiv1lOknX88lkR8zT8-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssGiv1lOknX88lkR8zT8-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;3. Matriks Ternormalisasi terbobot (V)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="300" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="ssGiv1lOknX88lkR8zT8-10" edge="1" parent="1" source="ssGiv1lOknX88lkR8zT8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ssGiv1lOknX88lkR8zT8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssGiv1lOknX88lkR8zT8-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;4. Solusi ideal positif (A+) dan negatif (A-)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="300" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="ssGiv1lOknX88lkR8zT8-12" edge="1" parent="1" source="ssGiv1lOknX88lkR8zT8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ssGiv1lOknX88lkR8zT8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssGiv1lOknX88lkR8zT8-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;5. Jarak Euclidean (Di- dan Di+)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="300" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="ssGiv1lOknX88lkR8zT8-14" edge="1" parent="1" source="ssGiv1lOknX88lkR8zT8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="864.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ssGiv1lOknX88lkR8zT8-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;6. Nilai Preferensi Relatif (Vi)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="300" y="755" as="geometry" />
+        </mxCell>
+        <mxCell id="ssGiv1lOknX88lkR8zT8-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Peringkat Alternatif Pemain&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="243" x="303" y="870" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
